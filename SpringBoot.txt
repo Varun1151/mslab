@@ -1,0 +1,11 @@
+https://start.spring.io/
+
+Dependencies
+
+	- Spring Web
+	- Spring Data JPA
+	- MySQL Driver
+
+http://localhost/phpmyadmin/
+
+./mvnw spring-boot:run
