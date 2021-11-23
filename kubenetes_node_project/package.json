@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-image-demo",
+  "version": "1.0.0",
+  "description": "nodejs image demo",
+  "author": "HKS",
+  "license": "RIT",
+  "main": "app.js",
+  "scripts":{
+	 "start":"node get_ex1.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
