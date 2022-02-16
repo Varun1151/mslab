@@ -14,6 +14,8 @@ Main services
 - MySQL Driver
 - Eureka Discovey Client
 
+### Spring Data JPA and MySQL driver is not needed if you are not doing database. But if you include MYSQL and JPA and not specify database then it will throw error
+
 
 Eureka Service
 
@@ -27,4 +29,4 @@ Gateway
 - spring web
 - Eureka Discovey Client
 
-### Spring Data JPA and MySQL driver is not needed if you not doing database  
+  
