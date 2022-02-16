@@ -1,11 +1,30 @@
 https://start.spring.io/
 
-Dependencies
-
-	- Spring Web
-	- Spring Data JPA
-	- MySQL Driver
-
 http://localhost/phpmyadmin/
 
 ./mvnw spring-boot:run
+
+DEPENDENCIES
+
+Main services
+
+- Spring Web
+- Spring Data JPA
+- Lombox
+- MySQL Driver
+- Eureka Discovey Client
+
+
+Eureka Service
+
+- Eureka Server
+
+
+Gateway
+
+- Spring Boot Actuator
+- Gateway
+- spring web
+- Eureka Discovey Client
+
+### Spring Data JPA and MySQL driver is not needed if you not doing database  
